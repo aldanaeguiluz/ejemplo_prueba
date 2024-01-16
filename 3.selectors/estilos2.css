@@ -1,0 +1,18 @@
+#top{
+    background-color: orange;
+}
+
+.borde-negro{
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+}
+
+.machupicchu{
+    width: 100px;
+}
+
+.fondo-rojo img{
+    width: 300px;
+}
